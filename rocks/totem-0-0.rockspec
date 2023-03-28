@@ -9,7 +9,7 @@ source = {
 
 description = {
 	summary = 'Torch test module',
-	homepage = 'https://github.com/akfidjeland/torch-totem',
+	homepage = 'https://github.com/EvenYYY/torch-totem',
 	license = 'BSD'
 }
 
